@@ -2,6 +2,8 @@
 
 Rust+Webassembly开发微信小程序
 
+启动代码在miniprogram/app.js中
+
 hello.js和hello.wasm 是 <a href="https://github.com/koute/stdweb/tree/master/examples/minimal">https://github.com/koute/stdweb/tree/master/examples/minimal</a>编译得到的
 
 demo.js和demo.wasm 是 <a href="https://github.com/koute/stdweb/tree/master/examples/hasher">https://github.com/koute/stdweb/tree/master/examples/hasher</a>编译得到的
