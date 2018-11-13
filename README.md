@@ -15,3 +15,7 @@ demo.js和demo.wasm 是 <a href="https://github.com/koute/stdweb/tree/master/exa
 hello.js和demo.js在代码中经过改动适配微信小程序
 
 stdweb的安装教程在这里<a href="https://crates.io/crates/stdweb">https://crates.io/crates/stdweb</a>
+
+运行截图:
+
+<img src="https://raw.githubusercontent.com/planet0104/miniprogram-rust-wasm/master/demo.jpg" />
